@@ -31,7 +31,7 @@ The dataset contains information about Netflix titles including:
 
 ## 🚀 How to Run the Project
 - Clone the repository
-- git clone https://github.com/yourusername/netflix-eda.git
+- git clone https://github.com/parth-visualize/Netflix-Data-Analysis.git
 - Navigate to the project folder
 - cd netflix-eda
 - Install required libraries
